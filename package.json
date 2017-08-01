@@ -1,0 +1,25 @@
+{
+  "name": "dbking",
+  "main": "./app/v0.0.1/index.html",
+  "build": "1501600268",
+  "version": "0.0.1",
+  "description": "db king",
+  "window": {
+    "title": "dbking",
+    "icon": "assest/img/logo.png",
+    "position": "center",
+    "width": 1028,
+    "height": 680,
+    "toolbar": true,
+    "frame": false,
+    "resizable": false,
+    "min_width": 1028
+  },
+  "contributors": [
+    {
+      "name": "郭伟",
+      "email": "davygeek@163.com",
+      "web": "http://davygeek.cnblogs.com"
+    }
+  ]
+}
