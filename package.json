@@ -21,5 +21,8 @@
       "email": "davygeek@163.com",
       "web": "http://davygeek.cnblogs.com"
     }
-  ]
+  ],
+  "devDependencies": {
+    "grpc-tools": "^1.4.1"
+  }
 }
