@@ -1,4 +1,4 @@
-![cobra logo](https://raw.githubusercontent.com/zssky/cobra/master/resource/cobra.jpg)
+![cobra logo](https://github.com/zssky/cobra/blob/master/resources/cobra.jpg)
 
 # 什么是cobra
 cobra是基于Go语言的数据采集
