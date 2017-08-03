@@ -1,8 +1,12 @@
-# dbking
-dbking is an data collect tool for many kinds of databases
+![cobra logo](https://raw.githubusercontent.com/zssky/cobra/master/resource/cobra.jpg)
 
-## UI
-The UI using nw.js, it is easy for Cross platform UI， but it is new for me. So we try use it Tectonic interface
+# 什么是cobra
+cobra是基于Go语言的数据采集
 
-## Server
-The Server need High performance and support many kinds of databases. So we use golang 
+# 架构
+
+# 界面
+界面我们使用NW.js
+
+# 服务端
+数据采集主要依赖于服务端
