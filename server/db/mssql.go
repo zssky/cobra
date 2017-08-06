@@ -1,5 +1,5 @@
 package db
 
 import (
-	_ "github.com/denisenkom/go-mssqldb"
+//_ "github.com/denisenkom/go-mssqldb"
 )

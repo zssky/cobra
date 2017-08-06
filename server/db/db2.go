@@ -1,5 +1,5 @@
 package db
 
 import (
-	_ "bitbucket.org/phiggins/db2cli"
+//	_ "bitbucket.org/phiggins/db2cli"
 )
