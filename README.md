@@ -1,5 +1,9 @@
 ![cobra logo](https://github.com/zssky/cobra/blob/master/resources/cobra.jpg)
 
+# cobra
+[![Build Status](https://travis-ci.org/zssky/cobra.svg?branch=master)](https://travis-ci.org/zssky/cobra)
+
+
 # 什么是cobra
 cobra是基于Go语言的数据采集工具，主要用于提供多数据源数据采集到sqlite数据库，基于sqlite数据库再做进一步的数据分析和处理；支持数据以不同的方式导出，提供方便跨界的操作界面。 用户可以自己定义任务内容，采集过程中的处理语句可以直接使用不同的模板来区分。
 
