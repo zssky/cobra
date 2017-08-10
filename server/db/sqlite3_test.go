@@ -26,7 +26,7 @@ func TestNewSqlite3(t *testing.T) {
 	t.Logf("sqlite Open Success, sqlite3:%v", sqlite3)
 }
 
-func TestDBType(t *testing.T) {
+func TestSqlite3DBType(t *testing.T) {
 	sqlite3 := newSqlite3(dbname)
 	defer sqlite3.Close()
 
@@ -34,7 +34,7 @@ func TestDBType(t *testing.T) {
 	t.Logf("dbType:%v", dbType)
 }
 
-func TestShowTables(t *testing.T) {
+func TestSqlite3ShowTables(t *testing.T) {
 	sqlite3 := newSqlite3(dbname)
 	defer sqlite3.Close()
 
