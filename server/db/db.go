@@ -18,6 +18,7 @@ const (
 	DB_TYPE_DB2     = "db2-cli"
 	DB_TYPE_ADO     = "adodb"
 	DB_TYPE_ODBC    = "odbc"
+	DB_TYPE_ACCESS  = "access"
 )
 
 var (
