@@ -35,7 +35,7 @@ func (db *CobraMSSql) DBType() string {
 
 // ShowTables - Show db's table list
 func (db *CobraMSSql) ShowTables() ([]string, error) {
-	rows, err := db.Query("select * from sys.tables")
+	rows, err := db.Query(" SELECT Name FROM SysObjects Where XType='U' ORDER BY Name")
 	if err != nil {
 		return nil, err
 	}
